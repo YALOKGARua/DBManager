@@ -1,5 +1,3 @@
----
-
 # **DBManager**
 
 **DBManager** is a simple yet powerful C++ program designed to interact with SQLite databases. It allows users to create, manage, and query databases through both automated and interactive modes. The project is modular, with clear separation of functionality for logging, database interaction, and user interaction.
